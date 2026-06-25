@@ -50,7 +50,6 @@ Target Variables:
 - Seaborn
 - Scikit-learn
 - ELI5
-- Joblib
 
 ---
 
@@ -98,7 +97,7 @@ Target Variables:
 
 ---
 
-## Preventive Maintenance
+## Predictive Maintenance
 
 The trained model predicts:
 
@@ -116,7 +115,7 @@ This helps reduce machine downtime and enables condition-based maintenance.
 ```
 Predictive-Preventive-Maintenance-using-Machine-Learning
 │
-├── Predictive_Preventive_Maintenance.ipynb
+├── Predictive_Maintenance.ipynb
 ├── ai4i2020.csv
 ├── predictive_maintenance_model.pkl
 ├── requirements.txt
