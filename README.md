@@ -115,11 +115,10 @@ This helps reduce machine downtime and enables condition-based maintenance.
 ```
 Predictive-Preventive-Maintenance-using-Machine-Learning
 │
-├── Predictive_Maintenance.ipynb
+├── Predictive_Maintenance_ML.ipynb
 ├── ai4i2020.csv
 ├── requirements.txt
 ├── README.md
-└── images
 ```
 
 ---
