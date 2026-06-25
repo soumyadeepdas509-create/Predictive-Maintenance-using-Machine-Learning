@@ -117,7 +117,6 @@ Predictive-Preventive-Maintenance-using-Machine-Learning
 │
 ├── Predictive_Maintenance.ipynb
 ├── ai4i2020.csv
-├── predictive_maintenance_model.pkl
 ├── requirements.txt
 ├── README.md
 └── images
