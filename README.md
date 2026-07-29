@@ -65,7 +65,7 @@ Target Variables:
 8. Multi-class Failure Prediction
 9. Model Evaluation
 10. Feature Importance
-11. Preventive Maintenance Recommendation
+11. Predictive Maintenance Recommendation
 12. Save Trained Model
 
 ---
